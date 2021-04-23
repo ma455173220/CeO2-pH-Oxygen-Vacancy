@@ -1,0 +1,36 @@
+CRY17_SCRDIR - scratch directory (integrals and temp files): /jobfs/local/3326038.r-man2
+CRY17_EXEDIR - directory with crystal executables: /home/561/hm1876/crystal/crystal17/bin/Linux-ifort14_XE_emt64
+CRY17_UTILS - running scripts and misc: /home/561/hm1876/crystal/crystal17/utils17/runcry17, runprop17
+CRY2K6_GRA - graphical scripts: /home/561/hm1876/crystal/crystal17/crgra2006/maps06, doss06, band06
+CRY17_TEST - directory with test cases:
+Number of nodes is 2
+output data in /short/ep0/hm1876/CeO2/H2O/CeO2-H3O+-8H2O/OV-Original-Input-Geometry/CeO2-1.out
+crystal executable in /home/561/hm1876/crystal/crystal17/bin/Linux-ifort14_XE_emt64/v1.0.2
+input data in /short/ep0/hm1876/CeO2/H2O/CeO2-H3O+-8H2O/OV-Original-Input-Geometry/CeO2-1.d12
+creating temporary directory /jobfs/local/3326038.r-man2/tmp3900_hm1876
+scf guess from /short/ep0/hm1876/CeO2/H2O/CeO2-H3O+-8H2O/OV-Original-Input-Geometry/CeO2-1.f9
+external geometry input from /short/ep0/hm1876/CeO2/H2O/CeO2-H3O+-8H2O/OV-Original-Input-Geometry/CeO2-1.gui
+external geometry input saved in /short/ep0/hm1876/CeO2/H2O/CeO2-H3O+-8H2O/OV-Original-Input-Geometry/CeO2-1_inp.gui
+crystal job running in /jobfs/local/3326038.r-man2/tmp3900_hm1876 ...
+SCF abnormal end - no wf written in fort.9
+history of geometry during optimization - file optc001 optc002 optc003 optc004 saved as /short/ep0/hm1876/CeO2/H2O/CeO2-H3O+-8H2O/OV-Original-Input-Geometry/CeO2-1.optstory/optc001 /short/ep0/hm1876/CeO2/H2O/CeO2-H3O+-8H2O/OV-Original-Input-Geometry/CeO2-1.optstory/optc002 /short/ep0/hm1876/CeO2/H2O/CeO2-H3O+-8H2O/OV-Original-Input-Geometry/CeO2-1.optstory/optc003 /short/ep0/hm1876/CeO2/H2O/CeO2-H3O+-8H2O/OV-Original-Input-Geometry/CeO2-1.optstory/optc004
+file HESSOPT.DAT saved as /short/ep0/hm1876/CeO2/H2O/CeO2-H3O+-8H2O/OV-Original-Input-Geometry/CeO2-1.hessopt
+file OPTINFO.DAT saved as /short/ep0/hm1876/CeO2/H2O/CeO2-H3O+-8H2O/OV-Original-Input-Geometry/CeO2-1.optinfo
+file SCFOUT.LOG saved as /short/ep0/hm1876/CeO2/H2O/CeO2-H3O+-8H2O/OV-Original-Input-Geometry/CeO2-1.SCFLOG
+file fort.20 saved as /short/ep0/hm1876/CeO2/H2O/CeO2-H3O+-8H2O/OV-Original-Input-Geometry/CeO2-1.f20
+file fort.33 saved as /short/ep0/hm1876/CeO2/H2O/CeO2-H3O+-8H2O/OV-Original-Input-Geometry/CeO2-1.xyz
+geometry input file fort.34 saved as /short/ep0/hm1876/CeO2/H2O/CeO2-H3O+-8H2O/OV-Original-Input-Geometry/CeO2-1.gui
+temporary directory /jobfs/local/3326038.r-man2/tmp3900_hm1876 removed
+
+======================================================================================
+                  Resource Usage on 2018-12-06 00:24:30:
+   Job Id:             3326038.r-man2
+   Project:            ep0
+   Exit Status:        0
+   Service Units:      774.02
+   NCPUs Requested:    56                     NCPUs Used: 56              
+                                           CPU Time Used: 618:10:25                                  
+   Memory Requested:   128.0GB               Memory Used: 27.34GB         
+   Walltime requested: 48:00:00            Walltime Used: 11:03:27        
+   JobFS requested:    16.0GB                 JobFS used: 289.36MB        
+======================================================================================

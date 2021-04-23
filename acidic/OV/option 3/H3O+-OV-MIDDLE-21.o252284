@@ -1,0 +1,41 @@
+CRY17_SCRDIR - scratch directory (integrals and temp files): /jobfs/local/252284.r-man2
+CRY17_EXEDIR - directory with crystal executables: /home/561/hm1876/crystal/crystal17/bin/Linux-ifort17_XE_emt64
+CRY17_UTILS - running scripts and misc: /home/561/hm1876/crystal/crystal17/utils17/runcry17, runprop17
+CRY2K6_GRA - graphical scripts: /home/561/hm1876/crystal/crystal17/crgra2006/maps06, doss06, band06
+CRY17_TEST - directory with test cases:
+Number of nodes is 1
+output data in /short/ep0/hm1876/CeO2/PH/CeO2-H3O+-8H2O/OV-Original-Input-Geometry/MIDDLE/CeO2-21.out
+crystal executable in /home/561/hm1876/crystal/crystal17/bin/Linux-ifort17_XE_emt64/v1.0.2
+input data in /short/ep0/hm1876/CeO2/PH/CeO2-H3O+-8H2O/OV-Original-Input-Geometry/MIDDLE/CeO2-21.d12
+creating temporary directory /jobfs/local/252284.r-man2/tmp48598_hm1876
+scf guess from /short/ep0/hm1876/CeO2/PH/CeO2-H3O+-8H2O/OV-Original-Input-Geometry/MIDDLE/CeO2-21.f9
+external geometry input from /short/ep0/hm1876/CeO2/PH/CeO2-H3O+-8H2O/OV-Original-Input-Geometry/MIDDLE/CeO2-21.gui
+external geometry input saved in /short/ep0/hm1876/CeO2/PH/CeO2-H3O+-8H2O/OV-Original-Input-Geometry/MIDDLE/CeO2-21_inp.gui
+opt info from /short/ep0/hm1876/CeO2/PH/CeO2-H3O+-8H2O/OV-Original-Input-Geometry/MIDDLE/CeO2-21.optinfo
+file fort.20 from /short/ep0/hm1876/CeO2/PH/CeO2-H3O+-8H2O/OV-Original-Input-Geometry/MIDDLE/CeO2-21.f20
+crystal job running in /jobfs/local/252284.r-man2/tmp48598_hm1876 ...
+wave function binary file /short/ep0/hm1876/CeO2/PH/CeO2-H3O+-8H2O/OV-Original-Input-Geometry/MIDDLE/CeO2-21.f9
+file fort.98 saved as /short/ep0/hm1876/CeO2/PH/CeO2-H3O+-8H2O/OV-Original-Input-Geometry/MIDDLE/CeO2-21.f98
+history of geometry during optimization - file optc034 optc035 optc036 optc037 optc038 optc039 optc040 optc041 optc042 optc043 optc044 saved as /short/ep0/hm1876/CeO2/PH/CeO2-H3O+-8H2O/OV-Original-Input-Geometry/MIDDLE/CeO2-21.optstory/optc001 /short/ep0/hm1876/CeO2/PH/CeO2-H3O+-8H2O/OV-Original-Input-Geometry/MIDDLE/CeO2-21.optstory/optc034 /short/ep0/hm1876/CeO2/PH/CeO2-H3O+-8H2O/OV-Original-Input-Geometry/MIDDLE/CeO2-21.optstory/optc035 /short/ep0/hm1876/CeO2/PH/CeO2-H3O+-8H2O/OV-Original-Input-Geometry/MIDDLE/CeO2-21.optstory/optc036 /short/ep0/hm1876/CeO2/PH/CeO2-H3O+-8H2O/OV-Original-Input-Geometry/MIDDLE/CeO2-21.optstory/optc037 /short/ep0/hm1876/CeO2/PH/CeO2-H3O+-8H2O/OV-Original-Input-Geometry/MIDDLE/CeO2-21.optstory/optc038 /short/ep0/hm1876/CeO2/PH/CeO2-H3O+-8H2O/OV-Original-Input-Geometry/MIDDLE/CeO2-21.optstory/optc039 /short/ep0/hm1876/CeO2/PH/CeO2-H3O+-8H2O/OV-Original-Input-Geometry/MIDDLE/CeO2-21.optstory/optc040 /short/ep0/hm1876/CeO2/PH/CeO2-H3O+-8H2O/OV-Original-Input-Geometry/MIDDLE/CeO2-21.optstory/optc041 /short/ep0/hm1876/CeO2/PH/CeO2-H3O+-8H2O/OV-Original-Input-Geometry/MIDDLE/CeO2-21.optstory/optc042 /short/ep0/hm1876/CeO2/PH/CeO2-H3O+-8H2O/OV-Original-Input-Geometry/MIDDLE/CeO2-21.optstory/optc043 /short/ep0/hm1876/CeO2/PH/CeO2-H3O+-8H2O/OV-Original-Input-Geometry/MIDDLE/CeO2-21.optstory/optc044
+file HESSOPT.DAT saved as /short/ep0/hm1876/CeO2/PH/CeO2-H3O+-8H2O/OV-Original-Input-Geometry/MIDDLE/CeO2-21.hessopt
+file OPTINFO.DAT saved as /short/ep0/hm1876/CeO2/PH/CeO2-H3O+-8H2O/OV-Original-Input-Geometry/MIDDLE/CeO2-21.optinfo
+file SCFOUT.LOG saved as /short/ep0/hm1876/CeO2/PH/CeO2-H3O+-8H2O/OV-Original-Input-Geometry/MIDDLE/CeO2-21.SCFLOG
+file fort.20 saved as /short/ep0/hm1876/CeO2/PH/CeO2-H3O+-8H2O/OV-Original-Input-Geometry/MIDDLE/CeO2-21.f20
+file fort.33 saved as /short/ep0/hm1876/CeO2/PH/CeO2-H3O+-8H2O/OV-Original-Input-Geometry/MIDDLE/CeO2-21.xyz
+geometry input file fort.34 saved as /short/ep0/hm1876/CeO2/PH/CeO2-H3O+-8H2O/OV-Original-Input-Geometry/MIDDLE/CeO2-21.gui
+file PPAN.DAT saved as /short/ep0/hm1876/CeO2/PH/CeO2-H3O+-8H2O/OV-Original-Input-Geometry/MIDDLE/CeO2-21.ppan
+file PPAN.DAT saved as /short/ep0/hm1876/CeO2/PH/CeO2-H3O+-8H2O/OV-Original-Input-Geometry/MIDDLE/CeO2-21.ppan
+temporary directory /jobfs/local/252284.r-man2/tmp48598_hm1876 removed
+
+======================================================================================
+                  Resource Usage on 2019-07-13 21:48:53:
+   Job Id:             252284.r-man2
+   Project:            ep0
+   Exit Status:        0
+   Service Units:      594.54
+   NCPUs Requested:    28                     NCPUs Used: 28              
+                                           CPU Time Used: 475:29:27                                  
+   Memory Requested:   128.0GB               Memory Used: 13.73GB         
+   Walltime requested: 48:00:00            Walltime Used: 16:59:13        
+   JobFS requested:    16.0GB                 JobFS used: 165.91MB        
+======================================================================================

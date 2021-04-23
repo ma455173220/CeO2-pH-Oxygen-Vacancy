@@ -1,0 +1,39 @@
+CRY17_SCRDIR - scratch directory (integrals and temp files): /jobfs/local/9727896.r-man2
+CRY17_EXEDIR - directory with crystal executables: /home/561/hm1876/crystal/crystal17/bin/Linux-ifort17_XE_emt64
+CRY17_UTILS - running scripts and misc: /home/561/hm1876/crystal/crystal17/utils17/runcry17, runprop17
+CRY2K6_GRA - graphical scripts: /home/561/hm1876/crystal/crystal17/crgra2006/maps06, doss06, band06
+CRY17_TEST - directory with test cases:
+Number of nodes is 2
+output data in /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/MIDDLE/ATOMREMO/CeO2-23.out
+crystal executable in /home/561/hm1876/crystal/crystal17/bin/Linux-ifort17_XE_emt64/v1.0.2
+input data in /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/MIDDLE/ATOMREMO/CeO2-23.d12
+creating temporary directory /jobfs/local/9727896.r-man2/tmp31054_hm1876
+scf guess from /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/MIDDLE/ATOMREMO/CeO2-23.f9
+external geometry input from /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/MIDDLE/ATOMREMO/CeO2-23.gui
+external geometry input saved in /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/MIDDLE/ATOMREMO/CeO2-23_inp.gui
+crystal job running in /jobfs/local/9727896.r-man2/tmp31054_hm1876 ...
+wave function binary file /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/MIDDLE/ATOMREMO/CeO2-23.f9
+file fort.98 saved as /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/MIDDLE/ATOMREMO/CeO2-23.f98
+history of geometry during optimization - file optc001 optc003 optc004 optc005 optc006 optc007 optc008 optc009 optc010 optc011 optc012 optc013 optc014 optc015 optc016 optc017 optc018 optc019 optc020 optc021 optc022 optc023 optc026 optc027 optc029 optc030 optc031 optc032 optc033 optc036 optc037 optc038 saved as /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/MIDDLE/ATOMREMO/CeO2-23.optstory/optc001 /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/MIDDLE/ATOMREMO/CeO2-23.optstory/optc003 /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/MIDDLE/ATOMREMO/CeO2-23.optstory/optc004 /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/MIDDLE/ATOMREMO/CeO2-23.optstory/optc005 /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/MIDDLE/ATOMREMO/CeO2-23.optstory/optc006 /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/MIDDLE/ATOMREMO/CeO2-23.optstory/optc007 /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/MIDDLE/ATOMREMO/CeO2-23.optstory/optc008 /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/MIDDLE/ATOMREMO/CeO2-23.optstory/optc009 /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/MIDDLE/ATOMREMO/CeO2-23.optstory/optc010 /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/MIDDLE/ATOMREMO/CeO2-23.optstory/optc011 /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/MIDDLE/ATOMREMO/CeO2-23.optstory/optc012 /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/MIDDLE/ATOMREMO/CeO2-23.optstory/optc013 /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/MIDDLE/ATOMREMO/CeO2-23.optstory/optc014 /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/MIDDLE/ATOMREMO/CeO2-23.optstory/optc015 /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/MIDDLE/ATOMREMO/CeO2-23.optstory/optc016 /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/MIDDLE/ATOMREMO/CeO2-23.optstory/optc017 /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/MIDDLE/ATOMREMO/CeO2-23.optstory/optc018 /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/MIDDLE/ATOMREMO/CeO2-23.optstory/optc019 /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/MIDDLE/ATOMREMO/CeO2-23.optstory/optc020 /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/MIDDLE/ATOMREMO/CeO2-23.optstory/optc021 /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/MIDDLE/ATOMREMO/CeO2-23.optstory/optc022 /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/MIDDLE/ATOMREMO/CeO2-23.optstory/optc023 /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/MIDDLE/ATOMREMO/CeO2-23.optstory/optc026 /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/MIDDLE/ATOMREMO/CeO2-23.optstory/optc027 /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/MIDDLE/ATOMREMO/CeO2-23.optstory/optc029 /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/MIDDLE/ATOMREMO/CeO2-23.optstory/optc030 /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/MIDDLE/ATOMREMO/CeO2-23.optstory/optc031 /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/MIDDLE/ATOMREMO/CeO2-23.optstory/optc032 /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/MIDDLE/ATOMREMO/CeO2-23.optstory/optc033 /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/MIDDLE/ATOMREMO/CeO2-23.optstory/optc036 /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/MIDDLE/ATOMREMO/CeO2-23.optstory/optc037 /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/MIDDLE/ATOMREMO/CeO2-23.optstory/optc038
+file HESSOPT.DAT saved as /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/MIDDLE/ATOMREMO/CeO2-23.hessopt
+file OPTINFO.DAT saved as /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/MIDDLE/ATOMREMO/CeO2-23.optinfo
+file SCFOUT.LOG saved as /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/MIDDLE/ATOMREMO/CeO2-23.SCFLOG
+file fort.20 saved as /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/MIDDLE/ATOMREMO/CeO2-23.f20
+file fort.33 saved as /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/MIDDLE/ATOMREMO/CeO2-23.xyz
+geometry input file fort.34 saved as /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/MIDDLE/ATOMREMO/CeO2-23.gui
+file PPAN.DAT saved as /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/MIDDLE/ATOMREMO/CeO2-23.ppan
+file PPAN.DAT saved as /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/MIDDLE/ATOMREMO/CeO2-23.ppan
+temporary directory /jobfs/local/9727896.r-man2/tmp31054_hm1876 removed
+
+======================================================================================
+                  Resource Usage on 2019-06-21 19:19:23:
+   Job Id:             9727896.r-man2
+   Project:            jh00
+   Exit Status:        0
+   Service Units:      2404.17
+   NCPUs Requested:    56                     NCPUs Used: 56              
+                                           CPU Time Used: 1922:11:08                                 
+   Memory Requested:   128.0GB               Memory Used: 31.88GB         
+   Walltime requested: 48:00:00            Walltime Used: 34:20:43        
+   JobFS requested:    16.0GB                 JobFS used: 289.37MB        
+======================================================================================

@@ -1,0 +1,28 @@
+stty: standard input: Inappropriate ioctl for device
+Important Note. git/2.9.5 is not compatible with matlab.
+Make sure you do not have a matlab module loaded when using this version of git
+cp: cannot stat `/jobfs/local/4198547.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/4198547.r-man2/tmp*/HESSOPT.DAT': No such file or directory
+cp: cannot stat `/jobfs/local/4198547.r-man2/tmp*/opta*': No such file or directory
+cp: cannot stat `/jobfs/local/4198547.r-man2/tmp*/optc*': No such file or directory
+cp: cannot stat `/jobfs/local/4198547.r-man2/tmp*/SCFOUT.LOG': No such file or directory
+find: `/jobfs/local/4198547.r-man2/tmp*/opt*': No such file or directory
+cp: cannot stat `/jobfs/local/4198547.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/4198547.r-man2/tmp*/HESSOPT.DAT': No such file or directory
+cp: cannot stat `/jobfs/local/4198547.r-man2/tmp*/opta*': No such file or directory
+cp: cannot stat `/jobfs/local/4198547.r-man2/tmp*/optc*': No such file or directory
+find: `/jobfs/local/4198547.r-man2/tmp*/opt*': No such file or directory
+cp: cannot stat `/jobfs/local/4198547.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/4198547.r-man2/tmp*/HESSOPT.DAT': No such file or directory
+cp: cannot stat `/jobfs/local/4198547.r-man2/tmp*/opta*': No such file or directory
+cp: cannot stat `/jobfs/local/4198547.r-man2/tmp*/optc*': No such file or directory
+find: `/jobfs/local/4198547.r-man2/tmp*/opt*': No such file or directory
+cp: cannot stat `/jobfs/local/4198547.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/4198547.r-man2/tmp*/opta*': No such file or directory
+cp: cannot stat `/jobfs/local/4198547.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/4198547.r-man2/tmp*/opta*': No such file or directory
+cp: cannot stat `/jobfs/local/4198547.r-man2/tmp*/fort.79': No such file or directory
+cp: cannot stat `/jobfs/local/4198547.r-man2/tmp*/opta*': No such file or directory
+ls: No match.
+mkdir: cannot create directory `/short/ep0/hm1876/CeO2/PH/CeO2-H3O+-8H2O/OV-Original-Input-Geometry/MIDDLE-1/CeO2-22.optstory': File exists
+ls: No match.

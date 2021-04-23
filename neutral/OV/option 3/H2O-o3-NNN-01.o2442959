@@ -1,0 +1,27 @@
+CRY17_SCRDIR - scratch directory (integrals and temp files): /jobfs/local/2442959.r-man2
+CRY17_EXEDIR - directory with crystal executables: /home/561/hm1876/crystal/crystal17/bin/Linux-ifort17_XE_emt64
+CRY17_UTILS - running scripts and misc: /home/561/hm1876/crystal/crystal17/utils17/runcry17, runprop17
+CRY2K6_GRA - graphical scripts: /home/561/hm1876/crystal/crystal17/crgra2006/maps06, doss06, band06
+CRY17_TEST - directory with test cases:
+Number of nodes is 2
+output data in /short/ep0/hm1876/CeO2/PH/CeO2-9H2O/OV-Original-Input-Geometry/option3/NN-NNN/CeO2-01.out
+crystal executable in /home/561/hm1876/crystal/crystal17/bin/Linux-ifort17_XE_emt64/v1.0.2
+input data in /short/ep0/hm1876/CeO2/PH/CeO2-9H2O/OV-Original-Input-Geometry/option3/NN-NNN/CeO2-01.d12
+creating temporary directory /jobfs/local/2442959.r-man2/tmp8803_hm1876
+CRYSTAL data /short/ep0/hm1876/CeO2/PH/CeO2-9H2O/OV-Original-Input-Geometry/option3/NN-NNN/CeO2-01.f9 not found or empty
+external geometry input from /short/ep0/hm1876/CeO2/PH/CeO2-9H2O/OV-Original-Input-Geometry/option3/NN-NNN/CeO2-01.gui
+external geometry input saved in /short/ep0/hm1876/CeO2/PH/CeO2-9H2O/OV-Original-Input-Geometry/option3/NN-NNN/CeO2-01_inp.gui
+crystal job running in /jobfs/local/2442959.r-man2/tmp8803_hm1876 ...
+
+======================================================================================
+                  Resource Usage on 2019-10-06 10:41:43:
+   Job Id:             2442959.r-man2
+   Project:            ep0
+   Exit Status:        271 (Linux Signal 15 SIGTERM Termination)
+   Service Units:      1140.61
+   NCPUs Requested:    56                     NCPUs Used: 56              
+                                           CPU Time Used: 910:56:43                                  
+   Memory Requested:   66.0GB                Memory Used: 23.37GB         
+   Walltime requested: 48:00:00            Walltime Used: 16:17:40        
+   JobFS requested:    16.0GB                 JobFS used: 132.05MB        
+======================================================================================

@@ -1,0 +1,40 @@
+CRY17_SCRDIR - scratch directory (integrals and temp files): /jobfs/local/2210382.r-man2
+CRY17_EXEDIR - directory with crystal executables: /home/561/hm1876/crystal/crystal17/bin/Linux-ifort17_XE_emt64
+CRY17_UTILS - running scripts and misc: /home/561/hm1876/crystal/crystal17/utils17/runcry17, runprop17
+CRY2K6_GRA - graphical scripts: /home/561/hm1876/crystal/crystal17/crgra2006/maps06, doss06, band06
+CRY17_TEST - directory with test cases:
+Number of nodes is 2
+output data in /short/ep0/hm1876/CeO2/PH/CeO2-9H2O/NO-OV/option3/CeO2-06.out
+crystal executable in /home/561/hm1876/crystal/crystal17/bin/Linux-ifort17_XE_emt64/v1.0.2
+input data in /short/ep0/hm1876/CeO2/PH/CeO2-9H2O/NO-OV/option3/CeO2-06.d12
+creating temporary directory /jobfs/local/2210382.r-man2/tmp28986_hm1876
+scf guess from /short/ep0/hm1876/CeO2/PH/CeO2-9H2O/NO-OV/option3/CeO2-06.f9
+external geometry input from /short/ep0/hm1876/CeO2/PH/CeO2-9H2O/NO-OV/option3/CeO2-06.gui
+external geometry input saved in /short/ep0/hm1876/CeO2/PH/CeO2-9H2O/NO-OV/option3/CeO2-06_inp.gui
+opt info from /short/ep0/hm1876/CeO2/PH/CeO2-9H2O/NO-OV/option3/CeO2-06.optinfo
+crystal job running in /jobfs/local/2210382.r-man2/tmp28986_hm1876 ...
+wave function binary file /short/ep0/hm1876/CeO2/PH/CeO2-9H2O/NO-OV/option3/CeO2-06.f9
+file fort.98 saved as /short/ep0/hm1876/CeO2/PH/CeO2-9H2O/NO-OV/option3/CeO2-06.f98
+history of geometry during optimization - file optc059 optc060 saved as /short/ep0/hm1876/CeO2/PH/CeO2-9H2O/NO-OV/option3/CeO2-06.optstory/optc059 /short/ep0/hm1876/CeO2/PH/CeO2-9H2O/NO-OV/option3/CeO2-06.optstory/optc060
+file HESSOPT.DAT saved as /short/ep0/hm1876/CeO2/PH/CeO2-9H2O/NO-OV/option3/CeO2-06.hessopt
+file OPTINFO.DAT saved as /short/ep0/hm1876/CeO2/PH/CeO2-9H2O/NO-OV/option3/CeO2-06.optinfo
+file SCFOUT.LOG saved as /short/ep0/hm1876/CeO2/PH/CeO2-9H2O/NO-OV/option3/CeO2-06.SCFLOG
+file fort.20 saved as /short/ep0/hm1876/CeO2/PH/CeO2-9H2O/NO-OV/option3/CeO2-06.f20
+file fort.33 saved as /short/ep0/hm1876/CeO2/PH/CeO2-9H2O/NO-OV/option3/CeO2-06.xyz
+geometry input file fort.34 saved as /short/ep0/hm1876/CeO2/PH/CeO2-9H2O/NO-OV/option3/CeO2-06.gui
+file PPAN.DAT saved as /short/ep0/hm1876/CeO2/PH/CeO2-9H2O/NO-OV/option3/CeO2-06.ppan
+file PPAN.DAT saved as /short/ep0/hm1876/CeO2/PH/CeO2-9H2O/NO-OV/option3/CeO2-06.ppan
+temporary directory /jobfs/local/2210382.r-man2/tmp28986_hm1876 removed
+
+======================================================================================
+                  Resource Usage on 2019-09-23 11:05:21:
+   Job Id:             2210382.r-man2
+   Project:            ep0
+   Exit Status:        0
+   Service Units:      110.44
+   NCPUs Requested:    56                     NCPUs Used: 56              
+                                           CPU Time Used: 88:12:29                                   
+   Memory Requested:   66.0GB                Memory Used: 22.71GB         
+   Walltime requested: 48:00:00            Walltime Used: 01:34:40        
+   JobFS requested:    16.0GB                 JobFS used: 295.71MB        
+======================================================================================

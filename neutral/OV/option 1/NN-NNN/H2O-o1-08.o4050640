@@ -1,0 +1,26 @@
+CRY17_SCRDIR - scratch directory (integrals and temp files): /jobfs/local/4050640.r-man2
+CRY17_EXEDIR - directory with crystal executables: /home/561/hm1876/crystal/crystal17/bin/Linux-ifort17_XE_emt64
+CRY17_UTILS - running scripts and misc: /home/561/hm1876/crystal/crystal17/utils17/runcry17, runprop17
+CRY2K6_GRA - graphical scripts: /home/561/hm1876/crystal/crystal17/crgra2006/maps06, doss06, band06
+CRY17_TEST - directory with test cases:
+Number of nodes is 4
+output data in /short/ep0/hm1876/CeO2/PH/CeO2-9H2O/OV-Original-Input-Geometry/option1/NN-NNN/CeO2-08.out
+crystal executable in /home/561/hm1876/crystal/crystal17/bin/Linux-ifort17_XE_emt64/v1.0.2
+input data in /short/ep0/hm1876/CeO2/PH/CeO2-9H2O/OV-Original-Input-Geometry/option1/NN-NNN/CeO2-08.d12
+creating temporary directory /jobfs/local/4050640.r-man2/tmp20979_hm1876
+scf guess from /short/ep0/hm1876/CeO2/PH/CeO2-9H2O/OV-Original-Input-Geometry/option1/NN-NNN/CeO2-08.f9
+external geometry input from /short/ep0/hm1876/CeO2/PH/CeO2-9H2O/OV-Original-Input-Geometry/option1/NN-NNN/CeO2-08.gui
+external geometry input saved in /short/ep0/hm1876/CeO2/PH/CeO2-9H2O/OV-Original-Input-Geometry/option1/NN-NNN/CeO2-08_inp.gui
+opt info from /short/ep0/hm1876/CeO2/PH/CeO2-9H2O/OV-Original-Input-Geometry/option1/NN-NNN/CeO2-08.optinfo
+crystal job running in /jobfs/local/4050640.r-man2/tmp20979_hm1876 ...
+wave function binary file /short/ep0/hm1876/CeO2/PH/CeO2-9H2O/OV-Original-Input-Geometry/option1/NN-NNN/CeO2-08.f9
+history of geometry during optimization - file optc052 optc053 saved as /short/ep0/hm1876/CeO2/PH/CeO2-9H2O/OV-Original-Input-Geometry/option1/NN-NNN/CeO2-08.optstory/optc052 /short/ep0/hm1876/CeO2/PH/CeO2-9H2O/OV-Original-Input-Geometry/option1/NN-NNN/CeO2-08.optstory/optc053
+file HESSOPT.DAT saved as /short/ep0/hm1876/CeO2/PH/CeO2-9H2O/OV-Original-Input-Geometry/option1/NN-NNN/CeO2-08.hessopt
+file OPTINFO.DAT saved as /short/ep0/hm1876/CeO2/PH/CeO2-9H2O/OV-Original-Input-Geometry/option1/NN-NNN/CeO2-08.optinfo
+file SCFOUT.LOG saved as /short/ep0/hm1876/CeO2/PH/CeO2-9H2O/OV-Original-Input-Geometry/option1/NN-NNN/CeO2-08.SCFLOG
+file fort.20 saved as /short/ep0/hm1876/CeO2/PH/CeO2-9H2O/OV-Original-Input-Geometry/option1/NN-NNN/CeO2-08.f20
+file fort.33 saved as /short/ep0/hm1876/CeO2/PH/CeO2-9H2O/OV-Original-Input-Geometry/option1/NN-NNN/CeO2-08.xyz
+geometry input file fort.34 saved as /short/ep0/hm1876/CeO2/PH/CeO2-9H2O/OV-Original-Input-Geometry/option1/NN-NNN/CeO2-08.gui
+file PPAN.DAT saved as /short/ep0/hm1876/CeO2/PH/CeO2-9H2O/OV-Original-Input-Geometry/option1/NN-NNN/CeO2-08.ppan
+file PPAN.DAT saved as /short/ep0/hm1876/CeO2/PH/CeO2-9H2O/OV-Original-Input-Geometry/option1/NN-NNN/CeO2-08.ppan
+temporary directory /jobfs/local/4050640.r-man2/tmp20979_hm1876 removed

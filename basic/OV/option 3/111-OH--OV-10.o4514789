@@ -1,0 +1,37 @@
+CRY17_SCRDIR - scratch directory (integrals and temp files): /jobfs/local/4514789.r-man2
+CRY17_EXEDIR - directory with crystal executables: /home/561/hm1876/crystal/crystal17/bin/Linux-ifort14_XE_emt64
+CRY17_UTILS - running scripts and misc: /home/561/hm1876/crystal/crystal17/utils17/runcry17, runprop17
+CRY2K6_GRA - graphical scripts: /home/561/hm1876/crystal/crystal17/crgra2006/maps06, doss06, band06
+CRY17_TEST - directory with test cases:
+Number of nodes is 2
+output data in /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/CeO2-10.out
+crystal executable in /home/561/hm1876/crystal/crystal17/bin/Linux-ifort14_XE_emt64/v1.0.2
+input data in /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/CeO2-10.d12
+creating temporary directory /jobfs/local/4514789.r-man2/tmp23749_hm1876
+scf guess from /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/CeO2-10.f9
+external geometry input from /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/CeO2-10.gui
+external geometry input saved in /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/CeO2-10_inp.gui
+hess guess from /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/CeO2-10.hessopt
+opt info from /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/CeO2-10.optinfo
+file fort.20 from /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/CeO2-10.f20
+crystal job running in /jobfs/local/4514789.r-man2/tmp23749_hm1876 ...
+SCF abnormal end - no wf written in fort.9
+file HESSOPT.DAT saved as /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/CeO2-10.hessopt
+file OPTINFO.DAT saved as /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/CeO2-10.optinfo
+file fort.20 saved as /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/CeO2-10.f20
+file fort.33 saved as /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/CeO2-10.xyz
+geometry input file fort.34 saved as /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/CeO2-10.gui
+temporary directory /jobfs/local/4514789.r-man2/tmp23749_hm1876 removed
+
+======================================================================================
+                  Resource Usage on 2019-01-09 16:21:08:
+   Job Id:             4514789.r-man2
+   Project:            ep0
+   Exit Status:        0
+   Service Units:      0.62
+   NCPUs Requested:    56                     NCPUs Used: 56              
+                                           CPU Time Used: 00:00:23                                   
+   Memory Requested:   128.0GB               Memory Used: 0B              
+   Walltime requested: 48:00:00            Walltime Used: 00:00:32        
+   JobFS requested:    16.0GB                 JobFS used: 0B              
+======================================================================================

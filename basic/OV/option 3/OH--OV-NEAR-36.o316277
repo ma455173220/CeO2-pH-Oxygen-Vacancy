@@ -1,0 +1,39 @@
+CRY17_SCRDIR - scratch directory (integrals and temp files): /jobfs/local/316277.r-man2
+CRY17_EXEDIR - directory with crystal executables: /home/561/hm1876/crystal/crystal17/bin/Linux-ifort17_XE_emt64
+CRY17_UTILS - running scripts and misc: /home/561/hm1876/crystal/crystal17/utils17/runcry17, runprop17
+CRY2K6_GRA - graphical scripts: /home/561/hm1876/crystal/crystal17/crgra2006/maps06, doss06, band06
+CRY17_TEST - directory with test cases:
+Number of nodes is 1
+output data in /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/NEAR-OV-OH-/CeO2-36.out
+crystal executable in /home/561/hm1876/crystal/crystal17/bin/Linux-ifort17_XE_emt64/v1.0.2
+input data in /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/NEAR-OV-OH-/CeO2-36.d12
+creating temporary directory /jobfs/local/316277.r-man2/tmp3683_hm1876
+scf guess from /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/NEAR-OV-OH-/CeO2-36.f9
+external geometry input from /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/NEAR-OV-OH-/CeO2-36.gui
+external geometry input saved in /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/NEAR-OV-OH-/CeO2-36_inp.gui
+crystal job running in /jobfs/local/316277.r-man2/tmp3683_hm1876 ...
+wave function binary file /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/NEAR-OV-OH-/CeO2-36.f9
+file fort.98 saved as /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/NEAR-OV-OH-/CeO2-36.f98
+history of geometry during optimization - file optc001 optc006 optc007 optc008 optc009 optc010 optc011 optc013 optc014 optc015 optc017 optc018 optc019 optc020 optc021 optc023 optc024 optc025 optc026 optc028 optc029 saved as /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/NEAR-OV-OH-/CeO2-36.optstory/optc001 /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/NEAR-OV-OH-/CeO2-36.optstory/optc006 /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/NEAR-OV-OH-/CeO2-36.optstory/optc007 /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/NEAR-OV-OH-/CeO2-36.optstory/optc008 /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/NEAR-OV-OH-/CeO2-36.optstory/optc009 /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/NEAR-OV-OH-/CeO2-36.optstory/optc010 /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/NEAR-OV-OH-/CeO2-36.optstory/optc011 /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/NEAR-OV-OH-/CeO2-36.optstory/optc013 /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/NEAR-OV-OH-/CeO2-36.optstory/optc014 /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/NEAR-OV-OH-/CeO2-36.optstory/optc015 /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/NEAR-OV-OH-/CeO2-36.optstory/optc017 /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/NEAR-OV-OH-/CeO2-36.optstory/optc018 /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/NEAR-OV-OH-/CeO2-36.optstory/optc019 /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/NEAR-OV-OH-/CeO2-36.optstory/optc020 /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/NEAR-OV-OH-/CeO2-36.optstory/optc021 /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/NEAR-OV-OH-/CeO2-36.optstory/optc023 /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/NEAR-OV-OH-/CeO2-36.optstory/optc024 /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/NEAR-OV-OH-/CeO2-36.optstory/optc025 /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/NEAR-OV-OH-/CeO2-36.optstory/optc026 /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/NEAR-OV-OH-/CeO2-36.optstory/optc028 /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/NEAR-OV-OH-/CeO2-36.optstory/optc029
+file HESSOPT.DAT saved as /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/NEAR-OV-OH-/CeO2-36.hessopt
+file OPTINFO.DAT saved as /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/NEAR-OV-OH-/CeO2-36.optinfo
+file SCFOUT.LOG saved as /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/NEAR-OV-OH-/CeO2-36.SCFLOG
+file fort.20 saved as /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/NEAR-OV-OH-/CeO2-36.f20
+file fort.33 saved as /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/NEAR-OV-OH-/CeO2-36.xyz
+geometry input file fort.34 saved as /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/NEAR-OV-OH-/CeO2-36.gui
+file PPAN.DAT saved as /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/NEAR-OV-OH-/CeO2-36.ppan
+file PPAN.DAT saved as /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/NEAR-OV-OH-/CeO2-36.ppan
+temporary directory /jobfs/local/316277.r-man2/tmp3683_hm1876 removed
+
+======================================================================================
+                  Resource Usage on 2019-07-16 09:48:49:
+   Job Id:             316277.r-man2
+   Project:            jh00
+   Exit Status:        0
+   Service Units:      1621.20
+   NCPUs Requested:    28                     NCPUs Used: 28              
+                                           CPU Time Used: 1296:25:56                                 
+   Memory Requested:   128.0GB               Memory Used: 18.51GB         
+   Walltime requested: 48:00:00            Walltime Used: 46:19:12        
+   JobFS requested:    16.0GB                 JobFS used: 166.77MB        
+======================================================================================

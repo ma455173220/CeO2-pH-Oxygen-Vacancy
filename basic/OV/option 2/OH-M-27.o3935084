@@ -1,0 +1,27 @@
+CRY17_SCRDIR - scratch directory (integrals and temp files): /jobfs/local/3935084.r-man2
+CRY17_EXEDIR - directory with crystal executables: /home/561/hm1876/crystal/crystal17/bin/Linux-ifort17_XE_emt64
+CRY17_UTILS - running scripts and misc: /home/561/hm1876/crystal/crystal17/utils17/runcry17, runprop17
+CRY2K6_GRA - graphical scripts: /home/561/hm1876/crystal/crystal17/crgra2006/maps06, doss06, band06
+CRY17_TEST - directory with test cases:
+output data in /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/MIDDLE/ATOMREMO/CeO2-27.out
+crystal executable in /home/561/hm1876/crystal/crystal17/bin/Linux-ifort17_XE_emt64/v1.0.2
+input data in /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/MIDDLE/ATOMREMO/CeO2-27.d12
+creating temporary directory /jobfs/local/3935084.r-man2/tmp26200_hm1876
+scf guess from /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/MIDDLE/ATOMREMO/CeO2-27.f9
+external geometry input from /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/MIDDLE/ATOMREMO/CeO2-27.gui
+external geometry input saved in /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/MIDDLE/ATOMREMO/CeO2-27_inp.gui
+opt info from /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/OV-Original-Input-Geometry/MIDDLE/ATOMREMO/CeO2-27.optinfo
+crystal job running in /jobfs/local/3935084.r-man2/tmp26200_hm1876 ...
+
+======================================================================================
+                  Resource Usage on 2019-12-05 14:16:58:
+   Job Id:             3935084.r-man2
+   Project:            ep0
+   Exit Status:        271 (Linux Signal 15 SIGTERM Termination)
+   Service Units:      1681.07
+   NCPUs Requested:    28                     NCPUs Used: 28              
+                                           CPU Time Used: 1344:47:57                                 
+   Memory Requested:   92.0GB                Memory Used: 20.04GB         
+   Walltime requested: 48:00:00            Walltime Used: 48:01:50        
+   JobFS requested:    32.0GB                 JobFS used: 108.99MB        
+======================================================================================

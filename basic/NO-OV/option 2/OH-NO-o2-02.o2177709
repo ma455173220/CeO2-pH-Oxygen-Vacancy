@@ -1,0 +1,32 @@
+CRY17_SCRDIR - scratch directory (integrals and temp files): /jobfs/local/2177709.r-man2
+CRY17_EXEDIR - directory with crystal executables: /home/561/hm1876/crystal/crystal17/bin/Linux-ifort17_XE_emt64
+CRY17_UTILS - running scripts and misc: /home/561/hm1876/crystal/crystal17/utils17/runcry17, runprop17
+CRY2K6_GRA - graphical scripts: /home/561/hm1876/crystal/crystal17/crgra2006/maps06, doss06, band06
+CRY17_TEST - directory with test cases:
+Number of nodes is 2
+output data in /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/NO-OV/option2/CeO2-02.out
+crystal executable in /home/561/hm1876/crystal/crystal17/bin/Linux-ifort17_XE_emt64/v1.0.2
+input data in /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/NO-OV/option2/CeO2-02.d12
+creating temporary directory /jobfs/local/2177709.r-man2/tmp33604_hm1876
+scf guess from /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/NO-OV/option2/CeO2-02.f9
+external geometry input from /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/NO-OV/option2/CeO2-02.gui
+external geometry input saved in /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/NO-OV/option2/CeO2-02_inp.gui
+crystal job running in /jobfs/local/2177709.r-man2/tmp33604_hm1876 ...
+SCF abnormal end - no wf written in fort.9
+file fort.20 saved as /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/NO-OV/option2/CeO2-02.f20
+file fort.33 saved as /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/NO-OV/option2/CeO2-02.xyz
+geometry input file fort.34 saved as /short/ep0/hm1876/CeO2/PH/CeO2-OH--8H2O/NO-OV/option2/CeO2-02.gui
+temporary directory /jobfs/local/2177709.r-man2/tmp33604_hm1876 removed
+
+======================================================================================
+                  Resource Usage on 2019-09-21 18:04:52:
+   Job Id:             2177709.r-man2
+   Project:            ep0
+   Exit Status:        0
+   Service Units:      0.14
+   NCPUs Requested:    56                     NCPUs Used: 56              
+                                           CPU Time Used: 00:00:22                                   
+   Memory Requested:   66.0GB                Memory Used: 0B              
+   Walltime requested: 48:00:00            Walltime Used: 00:00:07        
+   JobFS requested:    16.0GB                 JobFS used: 0B              
+======================================================================================
